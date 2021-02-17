@@ -1,0 +1,37 @@
+
+MediaWiki on DreamHost
+======================
+David Cary.
+:toc:
+
+Installing and maintaining MediaWiki on Dreamhost.
+
+=== Spinning up a new shared host on DreamHost, then installing MediaWiki
+
+The one-click installer
+...
+
+
+"MediaWiki - Installing and more"
+https://help.dreamhost.com/hc/en-us/articles/217292577-MediaWiki-Installing-and-more
+
+FUTURE: put more step-by-step instructions here.
+
+=== How to back up a MediaWiki on DreamHost with ssh access
+
+FUTURE: put more step-by-step instructions here.
+
+=== How to back up a MediaWiki on DreamHost without ssh access
+
+FUTURE: put more step-by-step instructions here.
+
+=== How to upgrade to the latest MediaWiki and keep all the content
+
+Upgrading
+...
+
+"MediaWiki - Updating"
+https://help.dreamhost.com/hc/en-us/articles/360046705091-MediaWiki-Updating
+
+FUTURE: put more step-by-step instructions here.
+
