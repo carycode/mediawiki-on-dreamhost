@@ -35,3 +35,11 @@ https://help.dreamhost.com/hc/en-us/articles/360046705091-MediaWiki-Updating
 
 FUTURE: put more step-by-step instructions here.
 
+
+=== Further reading
+
+* "This One Tool Lets You Edit Your Website Remotely & Securely (and It’s Not FTP)" https://www.dreamhost.com/blog/edit-your-website-remotely-securely-ssh/
+* "Creating and editing a file via SSH" https://help.dreamhost.com/hc/en-us/articles/115006413028-Creating-and-editing-a-file-via-SSH
+
+
+
